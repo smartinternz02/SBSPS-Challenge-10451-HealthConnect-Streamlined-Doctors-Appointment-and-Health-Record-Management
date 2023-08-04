@@ -57,3 +57,24 @@ HealthConnect: Streamlined Doctors Appointment and Health Record Management
 
 ![patient-edit-profile](https://github.com/smartinternz02/SBSPS-Challenge-10451-HealthConnect-Streamlined-Doctors-Appointment-and-Health-Record-Management/assets/84492994/c36b4698-83f0-4fd0-a717-5e9ab09a1c38)
 
+
+# Course completion badges earned:
+#
+ ╰┈➤Journey To Cloud: Envisioning Your Solution:
+ https://www.credly.com/badges/ade5b5d2-6493-469b-89d4-0e0acf486de0/public_url
+ 
+ ╰┈➤
+ https://www.credly.com/badges/ade5b5d2-6493-469b-89d4-0e0acf486de0/public_url
+ 
+ ╰┈➤Getting Started With Enterprise Data Science:
+ https://www.credly.com/badges/5d2beca3-4a74-4fdc-80e5-2241194c5589/public_url
+ 
+ ╰┈➤Deep Learning Fundamentals:
+ https://www.credly.com/badges/0866d836-af76-434b-a066-7ee5155773b7/public_url
+ 
+ ╰┈➤Getting Started with Threat Intelligence and Hunting:
+ https://www.credly.com/badges/124a13c2-c1c9-47c5-9726-94f201dc40c5/public_url
+ 
+ ╰┈➤Machine Learning with Python:
+ https://www.credly.com/badges/e03ec15b-ddf6-457e-8473-0acfb3a49af3/public_url
+
