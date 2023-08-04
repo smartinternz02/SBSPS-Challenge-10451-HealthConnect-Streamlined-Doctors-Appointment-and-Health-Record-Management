@@ -63,18 +63,16 @@ HealthConnect: Streamlined Doctors Appointment and Health Record Management
  ╰┈➤Journey To Cloud: Envisioning Your Solution:
  https://www.credly.com/badges/ade5b5d2-6493-469b-89d4-0e0acf486de0/public_url
  
- ╰┈➤
- https://www.credly.com/badges/ade5b5d2-6493-469b-89d4-0e0acf486de0/public_url
+ ╰┈➤Getting Started with Enterprise Data Science:
+ https://www.credly.com/badges/c4adcd35-d934-41c8-bd1d-ecb965e232e0/public_url
  
- ╰┈➤Getting Started With Enterprise Data Science:
- https://www.credly.com/badges/5d2beca3-4a74-4fdc-80e5-2241194c5589/public_url
+ ╰┈➤Getting Started with Enterprise-grade AI
+ https://www.credly.com/badges/34b6670e-ec78-4c65-b69e-04f2472e55ca/public_url
  
- ╰┈➤Deep Learning Fundamentals:
- https://www.credly.com/badges/0866d836-af76-434b-a066-7ee5155773b7/public_url
- 
- ╰┈➤Getting Started with Threat Intelligence and Hunting:
+ ╰┈➤Getting Started with Threat Intelligence and Hunting
  https://www.credly.com/badges/124a13c2-c1c9-47c5-9726-94f201dc40c5/public_url
  
- ╰┈➤Machine Learning with Python:
- https://www.credly.com/badges/e03ec15b-ddf6-457e-8473-0acfb3a49af3/public_url
+ ╰┈➤Fundamentals of Sustainability and Technology
+ https://www.credly.com/badges/c187d947-a3fc-4ad8-9823-7fb3fd7d17fb/public_url
+
 
